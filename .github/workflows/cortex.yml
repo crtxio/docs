@@ -23,4 +23,3 @@ jobs:
           service: pinata
           pinataKey: ${{ secrets.PINATA_KEY }}
           pinataSecret: ${{ secrets.PINATA_SECRET }}
-      - run: echo "🍏 This job's status is ${{outputsbcids }}.
