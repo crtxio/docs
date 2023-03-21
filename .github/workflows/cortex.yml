@@ -1,11 +1,8 @@
 name: Publish on Cortex
 run-name: ${{ github.actor }} is publishing to Cortex
-on:
-  pull_request:
-    branches:    
-      - main
+on: workflow_dispatch
 jobs:
-  Explore-GitHub-Actions:
+  Publish-On-Cortex:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -18,16 +15,12 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
-  pin_to_ipfs:
-    runs-on: ubuntu-latest
-    name: Publish
-    steps:
-    - uses: actions/checkout@v3
-    - name: IPFS Publish
-      id: IPFS
-      uses: alexanderschau/ipfs-pinning-action@v1.0.0
-      with:
-        path_to_add: '.' #Required
-        endpoint: ${{ secrets.ENDPOINT }} #Required
-        access_token: ${{ secrets.ACCESS_TOKEN }} #Required
+      - run: echo "🍏 This job's status is ${{ job.status }}".
+      - uses: aquiladev/ipfs-action@v0.1.3
+        id: pinata
+        with:
+          path: .
+          service: pinata
+          pinataKey: ${{ secrets.PINATA_KEY }}
+          pinataSecret: ${{ secrets.PINATA_SECRET }}
+      - run: echo "🍏 This job's status is ${{outputsbcids }}.
