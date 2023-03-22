@@ -18,7 +18,7 @@ jobs:
           pinataSecret: ${{ secrets.PINATA_SECRET }}
           
       - name: Publish to Cortex
-        uses: crtxio/publish-action
+        uses: crtxio/publish-action@master
         with:
           publisher: https://press.crtx.io
           topic: docs.ape
