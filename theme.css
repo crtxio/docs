@@ -1,6 +1,10 @@
 :root {
   --base-font-size: 14px;
-  --theme-color: purple;
-  --base-background-color: #111827;
-  --sidebar-background: rgb(15, 23, 42);
+  --theme-color: rgb(11, 10, 10);
+  --base-background-color: #092629;
+  --sidebar-background: #f6f7f7;
+  --sidebar-root-color: black;
+  --sidebar-name-color: black ;
+  --heading-h1-color:#ecf3f4;
+  --sidebar-nav-link-color: black; 
 }
