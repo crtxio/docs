@@ -29,7 +29,7 @@ Once you have purchased your .ape domain, you can now use Cortex Press to publis
 
 ## .HMN Domains
 
-Cortex Press is currently only available with .ape domains. Stay tuned for the .hmn domain launch in late 2023. 
+Cortex Press is currently only available to try with .ape domains. Stay tuned for the .hmn domain launch in late 2023. 
 
 - [How to Claim Your .HMN Domain](hmn.md)
 
