@@ -1,10 +1,16 @@
 :root {
+  --theme-color: rgb(36, 40, 59);
+
   --base-font-size: 14px;
-  --theme-color: rgb(11, 10, 10);
-  --base-background-color: #092629;
-  --sidebar-background: #f6f7f7;
-  --sidebar-root-color: black;
-  --sidebar-name-color: black ;
-  --heading-h1-color:#ecf3f4;
-  --sidebar-nav-link-color: black; 
+  --base-background-color: rgb(36, 40, 59);
+  --base-color: rgb(142, 152, 195);
+
+  --heading-color: rgb(192, 202, 245);
+  /* --heading-h1-color:#ecf3f4; */
+
+  --sidebar-background: #111827;
+  --sidebar-root-color: #94a3b8;
+  --sidebar-nav-link-color: #94a3b8;
+  --sidebar-nav-link-color--active: rgb(102, 126, 234);
+  --sidebar-nav-link-before-color: pink;
 }

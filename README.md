@@ -9,6 +9,7 @@ Check out the overview of our beta on the video below:
 ## Get Started with API
 Questions about how to use our API? Review documents here:
 - [How to use API](api.md)
+
 ## Get Started with APE.CLOUD
 Cortex Press is live for all .ape domain owners. To purchase your domain, visit  https://ape.cloud. Don't own a .ape domain? Reach out to the team on  [Telegram](https://t.me/dotapefam) or purchase an unused token on the Official .ape collection  [Opensea](https://opensea.io/collection/ape-cloud-invitation).  
 
