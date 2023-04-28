@@ -1,6 +1,16 @@
 :root {
+  --theme-color: rgb(36, 40, 59);
+
   --base-font-size: 14px;
-  --theme-color: purple;
-  --base-background-color: #111827;
-  --sidebar-background: rgb(15, 23, 42);
+  --base-background-color: rgb(36, 40, 59);
+  --base-color: rgb(142, 152, 195);
+
+  --heading-color: rgb(192, 202, 245);
+  /* --heading-h1-color:#ecf3f4; */
+
+  --sidebar-background: #111827;
+  --sidebar-root-color: #94a3b8;
+  --sidebar-nav-link-color: #94a3b8;
+  --sidebar-nav-link-color--active: rgb(102, 126, 234);
+  --sidebar-nav-link-before-color: pink;
 }
