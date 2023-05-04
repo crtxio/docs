@@ -1,5 +1,11 @@
 # Cortex Press
 
+Cortex Network is a decentralized content publishing platform designed to provide an efficient, scalable, and cost-effective way to publish, organize and find content on the Web3. https://cortex.press is now live for .ape domain owners!
+
+Check out the overview of our beta on the video below:
+
+[![Cortex Press Overview](/img/main.png)](https://youtu.be/sH5GUD_muYg) 
+
 ## Markdown
 
 Utilize docsify markdown: https://jhildenbiddle.github.io/docsify-themeable/#/customization?id=theme-styles
@@ -17,8 +23,8 @@ Utilize docsify markdown: https://jhildenbiddle.github.io/docsify-themeable/#/cu
 
 Have you successfully purchased your first .ape domain and ready to update your image metadata? We have made it simple to update the PFP image of your NFT subdomain with Cortex Press. 
 
-### 1. Purchase A Domain
-If you haven't already purchased a .ape domain, follow the instructions on previous walkthroughs to purchase one.
+### 1. 
+Purchase a domain: If you haven't already purchased a .ape domain, follow the instructions on previous walkthroughs to purchase one.
 
 ### 2. 
 Visit https://cortex.press and login to the wallet that currently holds your .ape domain. You can log in using a variety of methods, including Metamask or Magic.
@@ -55,8 +61,6 @@ Utilize docsify markdown: https://jhildenbiddle.github.io/docsify-themeable/#/cu
 [![](https://img.youtube.com/vi/xaHVXz0PEhE/maxresdefault.jpg)](https://youtu.be/xaHVXz0PEhE)
 
 ## Advanced Mode
-
-TL;DR
 
 Create a CID using IPFS or a pinning service like Web3 Storage. On Cortex Press, go to the setting on any of your sites. Paste in CID to advanced mode section and Publish. 
 
