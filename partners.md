@@ -1,7 +1,5 @@
 # Partners
 
-
-- [Bproto](https://bproto.io)
 - [Charged Particles](https://www.charged.fi/) 
 - [W3BSTOCK](https://www.w3bstock.io/)
 - [DoinGud](https://doingud.com/)
