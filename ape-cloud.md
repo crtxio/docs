@@ -1,5 +1,6 @@
 # Ape Cloud
 
+Cortex Press is live for all .ape domain owners. To purchase your domain, visit  https://ape.cloud. Don't own a .ape domain? Reach out to the team on  [Telegram](https://t.me/dotapefam) or purchase an unused token on the Official .ape collection  [Opensea](https://opensea.io/collection/ape-cloud-invitation). 
 ## Purchasing
 
 ![Alt text](img/apepurchase2.png)

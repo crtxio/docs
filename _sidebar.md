@@ -1,8 +1,8 @@
-- Quick Start 
+- Quick Start
 
-  - [Getting A Domain](getting-a-domain)
-  - [Publishing A Site](publishing-a-site)
-  - [Integrations](integrations)
+  - [Getting A Domain](domain)
+  - [Publishing A Site](publish.md)
+  - [Integrations](integrations.md)
   
 - Guides
 
